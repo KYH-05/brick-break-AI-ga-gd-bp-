@@ -1,2 +1,5 @@
 # brick-break-AI
-genetic algorithm
+
+using genetic algorithm
+
+
