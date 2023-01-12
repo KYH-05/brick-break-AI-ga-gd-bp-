@@ -400,7 +400,7 @@ while True:
                 paddles[i].x = 10000
             else:
               if type(moving[i]) == np.ndarray:
-                print(1)
+                #print(1)
                 moving = np.asarray(moving, dtype=int)
                 moving=moving.tolist()
                 moving = sum(moving, [])
