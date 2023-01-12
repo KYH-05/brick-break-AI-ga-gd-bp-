@@ -1,5 +1,6 @@
 # brick-break-AI
 
-using genetic algorithm
-
+gen -> genetic algorithm
+gd -> gradient descent
+bp -> back propagatio
 
