@@ -2,5 +2,5 @@
 
 #### gen -> genetic algorithm
 #### gd -> gradient descent
-#### bp -> back propagatio
+#### bp -> back propagation
 
