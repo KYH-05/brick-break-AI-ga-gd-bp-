@@ -1,6 +1,6 @@
 # brick-break-AI
 
-#### gen -> genetic algorithm
+#### ga -> genetic algorithm
 #### gd -> gradient descent
 #### bp -> back propagation
 
